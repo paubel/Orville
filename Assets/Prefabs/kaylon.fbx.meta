@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 494049eb22fed488390bc15f9f80d858
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: KaylonEngines
+    100004: KaylonExterior
+    100006: KaylonHull
+    100008: KaylonLight
+    100010: KaylonPipes
+    100012: KaylonPipes2
+    400000: //RootNode
+    400002: KaylonEngines
+    400004: KaylonExterior
+    400006: KaylonHull
+    400008: KaylonLight
+    400010: KaylonPipes
+    400012: KaylonPipes2
+    2100000: KaylonSurface
+    2100002: KaylonEmit
+    2100004: KaylonExhaust
+    2300000: KaylonEngines
+    2300002: KaylonExterior
+    2300004: KaylonHull
+    2300006: KaylonLight
+    2300008: KaylonPipes
+    2300010: KaylonPipes2
+    3300000: KaylonEngines
+    3300002: KaylonExterior
+    3300004: KaylonHull
+    3300006: KaylonLight
+    3300008: KaylonPipes
+    3300010: KaylonPipes2
+    4300000: KaylonPipes2
+    4300002: KaylonPipes
+    4300004: KaylonLight
+    4300006: KaylonEngines
+    4300008: KaylonExterior
+    4300010: KaylonHull
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KaylonEmit
+    second: {fileID: 2100000, guid: d98a756ccc2534ce18fce9566e81ede4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KaylonExhaust
+    second: {fileID: 2100000, guid: 77911bbb2c30b44e1a27cc89b2ec7a36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KaylonSurface
+    second: {fileID: 2100000, guid: 8e57535ef6daf47729ebc3ecb2f5e7ec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
