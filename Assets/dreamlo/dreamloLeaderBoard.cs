@@ -7,7 +7,8 @@ public class dreamloLeaderBoard : MonoBehaviour
 
     string dreamloWebserviceURL = "http://dreamlo.com/lb/";
 
-    public string privateCode = "IPrqoJjRHESUjzHl0E-hlg6cxU7olc_EmukZYfgSSsmQ";
+    public string privateCode = "SecretCode";
+    //Get yoour SecretCode at http://dreamlo.com/
     public string publicCode = "5e2307bcfe224b0478113f0e";
 
     string highScores = "";
